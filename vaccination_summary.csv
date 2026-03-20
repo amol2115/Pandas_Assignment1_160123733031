@@ -1,0 +1,224 @@
+country,vaccines,total_vaccinations
+China,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac, ZF2001",3263129000.0
+India,"Covaxin, Oxford/AstraZeneca, Sputnik V",1834500657.0
+United States,"Johnson&Johnson, Moderna, Pfizer/BioNTech",560181791.0
+Brazil,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",413559595.0
+Indonesia,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",377108938.0
+Japan,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",254345587.0
+Bangladesh,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",243642749.0
+Pakistan,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",219368557.0
+Vietnam,"Abdala, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",203144374.0
+Mexico,"CanSino, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",191907868.0
+Germany,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",171940027.0
+Russia,"EpiVacCorona, Sputnik V",163601171.0
+Philippines,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",148799120.0
+Turkey,"Pfizer/BioNTech, Sinovac, Turkovac",146881913.0
+Iran,"COVIran Barekat, Covaxin, FAKHRAVAC, Oxford/AstraZeneca, Razi Cov Pars, Sinopharm/Beijing, Soberana02, SpikoGen, Sputnik V",146792557.0
+France,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",141666197.0
+United Kingdom,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",140968337.0
+Italy,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",135870869.0
+Thailand,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",128882372.0
+South Korea,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",120604515.0
+England,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",118170701.0
+Argentina,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",96504666.0
+Spain,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",93807121.0
+Canada,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",82076782.0
+Colombia,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",80573164.0
+Egypt,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",76716981.0
+Malaysia,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",68795057.0
+Peru,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",65552891.0
+Saudi Arabia,"Oxford/AstraZeneca, Pfizer/BioNTech",62388851.0
+Australia,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",56242913.0
+Morocco,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",54201634.0
+Poland,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",53908363.0
+Chile,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",50302179.0
+Taiwan,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",49481298.0
+Myanmar,"Oxford/AstraZeneca, Sinopharm/Beijing",49316486.0
+Uzbekistan,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik Light, Sputnik V, ZF2001",44177104.0
+Nepal,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",39935568.0
+Sri Lanka,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",39102567.0
+Venezuela,"Abdala, Sinopharm/Beijing, Sinovac, Soberana02, Sputnik Light, Sputnik V",37860994.0
+Cambodia,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",36819740.0
+Cuba,"Abdala, Soberana Plus, Soberana02",35342367.0
+Netherlands,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",34038677.0
+South Africa,"Johnson&Johnson, Pfizer/BioNTech",33485691.0
+Ecuador,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",33165706.0
+Ukraine,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",31683310.0
+Nigeria,Oxford/AstraZeneca,31391732.0
+Ethiopia,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",29373478.0
+Mozambique,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",26215793.0
+Belgium,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",25235826.0
+United Arab Emirates,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V",24463702.0
+Portugal,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",22923599.0
+Sweden,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",21053545.0
+Kazakhstan,"QazVac, Sinopharm/Beijing, Sputnik V",20918681.0
+Greece,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",20503242.0
+Rwanda,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",19421047.0
+Austria,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",18131115.0
+Israel,"Moderna, Pfizer/BioNTech",18062854.0
+Iraq,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",17536902.0
+Angola,Oxford/AstraZeneca,17535411.0
+Czechia,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",17492052.0
+Kenya,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",17327143.0
+Uganda,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",17197954.0
+Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",16736886.0
+Hungary,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",16429829.0
+Guatemala,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",15845925.0
+Switzerland,"Johnson&Johnson, Moderna, Pfizer/BioNTech",15635047.0
+Dominican Republic,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",15484878.0
+Hong Kong,"Pfizer/BioNTech, Sinovac",14944464.0
+Singapore,"Moderna, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",13825593.0
+Algeria,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",13704895.0
+Azerbaijan,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",13425032.0
+Denmark,"Johnson&Johnson, Moderna, Pfizer/BioNTech",13211743.0
+Tunisia,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",13037269.0
+Bolivia,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",12972370.0
+Ghana,"Oxford/AstraZeneca, Sputnik V",12637542.0
+Scotland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",12115448.0
+Honduras,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",11995048.0
+Finland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",11679339.0
+Belarus,"Sinopharm/Beijing, Sputnik V",11634483.0
+Norway,"Moderna, Pfizer/BioNTech",11269240.0
+New Zealand,"Oxford/AstraZeneca, Pfizer/BioNTech",10950139.0
+Ireland,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",10741777.0
+Tajikistan,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",10439469.0
+El Salvador,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",10418549.0
+Cote d'Ivoire,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",10364488.0
+Costa Rica,"Oxford/AstraZeneca, Pfizer/BioNTech",10166273.0
+Laos,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",10048983.0
+Jordan,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",9727982.0
+Nicaragua,"Abdala, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Soberana02, Sputnik Light, Sputnik V",9611936.0
+Zimbabwe,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",9039729.0
+Serbia,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",8494958.0
+Paraguay,"Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",8428214.0
+Uruguay,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",8027751.0
+Panama,"Oxford/AstraZeneca, Pfizer/BioNTech",7889044.0
+Kuwait,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",7814545.0
+Turkmenistan,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",7580976.0
+Slovakia,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",7052526.0
+Oman,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",6986946.0
+Wales,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",6927437.0
+Qatar,"Moderna, Pfizer/BioNTech",6607185.0
+Sudan,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",6131070.0
+Guinea,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",5952680.0
+Afghanistan,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",5751015.0
+Mongolia,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",5478794.0
+Lebanon,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",5276097.0
+Croatia,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",5224151.0
+Tanzania,"Johnson&Johnson, Pfizer/BioNTech, Sinopharm/Beijing",5031070.0
+Lithuania,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",4465769.0
+Bulgaria,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",4348404.0
+Northern Ireland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",3754751.0
+Palestine,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",3694897.0
+Bahrain,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik Light, Sputnik V",3421273.0
+Libya,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",3415834.0
+Zambia,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",3402612.0
+Syria,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",3369196.0
+Benin,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",3333450.0
+Slovenia,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",2977006.0
+Kyrgyzstan,"Sinopharm/Beijing, Sputnik V",2902889.0
+Latvia,"Johnson&Johnson, Moderna, Novavax, Pfizer/BioNTech",2874324.0
+Georgia,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac",2857215.0
+Togo,Oxford/AstraZeneca,2757575.0
+Albania,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",2754244.0
+Niger,"Oxford/AstraZeneca, Sinopharm/Beijing",2681673.0
+Mauritania,"Oxford/AstraZeneca, Sinopharm/Beijing",2650797.0
+Botswana,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",2517260.0
+Senegal,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2496373.0
+Mauritius,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",2494317.0
+Somalia,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac",2395219.0
+Burkina Faso,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",2369487.0
+Sierra Leone,"Oxford/AstraZeneca, Sinopharm/Beijing",2134324.0
+Moldova,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",2123778.0
+Armenia,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V",2088962.0
+Malawi,"Johnson&Johnson, Oxford/AstraZeneca",1993981.0
+Estonia,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1971557.0
+Bosnia and Herzegovina,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",1924950.0
+Mali,Oxford/AstraZeneca,1873615.0
+North Macedonia,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",1836421.0
+Kosovo,"Oxford/AstraZeneca, Pfizer/BioNTech",1821917.0
+Bhutan,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",1787937.0
+Cyprus,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1773485.0
+Cameroon,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",1558668.0
+Trinidad and Tobago,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",1543684.0
+Jamaica,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1393819.0
+Fiji,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1308235.0
+Madagascar,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",1306962.0
+Timor,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",1297126.0
+Luxembourg,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1280144.0
+Malta,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",1255851.0
+Macao,"Pfizer/BioNTech, Sinopharm/Beijing",1238228.0
+Liberia,Oxford/AstraZeneca,1132502.0
+Brunei,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",1068468.0
+Central African Republic,"Covaxin, Oxford/AstraZeneca",1012846.0
+Democratic Republic of Congo,Oxford/AstraZeneca,964948.0
+Maldives,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",913264.0
+Lesotho,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",905438.0
+Guyana,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",889522.0
+Namibia,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",834756.0
+Congo,"Moderna, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",818931.0
+Yemen,"Johnson&Johnson, Oxford/AstraZeneca, Sinovac",807502.0
+Iceland,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",805469.0
+Cape Verde,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",728077.0
+Montenegro,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",668206.0
+Comoros,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing",637961.0
+Northern Cyprus,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",617389.0
+South Sudan,"Johnson&Johnson, Oxford/AstraZeneca",575057.0
+Papua New Guinea,Oxford/AstraZeneca,574716.0
+Guinea-Bissau,"Oxford/AstraZeneca, Sinopharm/Beijing",562620.0
+Gabon,"Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",548978.0
+Eswatini,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",509424.0
+Suriname,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",504529.0
+Equatorial Guinea,Sinopharm/Beijing,473409.0
+Belize,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",467251.0
+Chad,Sinopharm/Beijing,419469.0
+New Caledonia,Pfizer/BioNTech,367883.0
+French Polynesia,"Johnson&Johnson, Pfizer/BioNTech",367057.0
+Gambia,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",363353.0
+Solomon Islands,Oxford/AstraZeneca,358073.0
+Bahamas,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",334155.0
+Barbados,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",312145.0
+Samoa,Oxford/AstraZeneca,304893.0
+Haiti,"Johnson&Johnson, Moderna",249801.0
+Curacao,"Moderna, Pfizer/BioNTech",246566.0
+Jersey,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",226090.0
+Sao Tome and Principe,Oxford/AstraZeneca,205085.0
+Seychelles,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",199466.0
+Vanuatu,Oxford/AstraZeneca,199464.0
+Isle of Man,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",189498.0
+Aruba,Pfizer/BioNTech,169231.0
+Djibouti,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",165554.0
+Andorra,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",151997.0
+Guernsey,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",150724.0
+Tonga,Oxford/AstraZeneca,147193.0
+Cayman Islands,"Oxford/AstraZeneca, Pfizer/BioNTech",141118.0
+Kiribati,Oxford/AstraZeneca,133953.0
+Bermuda,"Oxford/AstraZeneca, Pfizer/BioNTech",127090.0
+Antigua and Barbuda,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",125386.0
+Saint Lucia,"Oxford/AstraZeneca, Pfizer/BioNTech",117740.0
+Gibraltar,"Oxford/AstraZeneca, Pfizer/BioNTech",116358.0
+Faeroe Islands,"Moderna, Pfizer/BioNTech",103894.0
+Grenada,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",87154.0
+Greenland,Moderna,79745.0
+Liechtenstein,"Johnson&Johnson, Moderna, Pfizer/BioNTech",70434.0
+Saint Vincent and the Grenadines,Oxford/AstraZeneca,69602.0
+Turks and Caicos Islands,Pfizer/BioNTech,68670.0
+San Marino,"Pfizer/BioNTech, Sputnik V",68230.0
+Monaco,Pfizer/BioNTech,65140.0
+Dominica,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",62334.0
+Sint Maarten (Dutch part),"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",62043.0
+Saint Kitts and Nevis,"Oxford/AstraZeneca, Pfizer/BioNTech",60467.0
+British Virgin Islands,"Johnson&Johnson, Oxford/AstraZeneca",40537.0
+Bonaire Sint Eustatius and Saba,"Moderna, Pfizer/BioNTech",35845.0
+Cook Islands,Pfizer/BioNTech,29565.0
+Anguilla,"Oxford/AstraZeneca, Pfizer/BioNTech",22714.0
+Nauru,Oxford/AstraZeneca,16824.0
+Wallis and Futuna,Moderna,13073.0
+Burundi,Sinopharm/Beijing,12166.0
+Tuvalu,Oxford/AstraZeneca,12114.0
+Saint Helena,Oxford/AstraZeneca,7892.0
+Falkland Islands,Oxford/AstraZeneca,4407.0
+Montserrat,Oxford/AstraZeneca,4211.0
+Niue,Pfizer/BioNTech,4161.0
+Tokelau,Pfizer/BioNTech,1936.0
+Pitcairn,Oxford/AstraZeneca,94.0
